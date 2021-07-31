@@ -1,0 +1,530 @@
+{
+    "Diploma Computer Science100":[
+        {
+            "day": "Monday",
+            "courses_venue": [{"course":"COMP 063","venue":"ONLINE","c_name":"principles of programming","l_info":"Danny Quan : 0545143000"},{"course":"COMP 063","venue":"ONLINE","c_name":"principles of programming","l_info":"Danny Quan : 0545143000"},{"course":"","venue":""},{"course":"","venue":""},{"course":"COMP 061","venue":"ONLINE","c_name":"principles of programming","l_info":"Danny Quan : 0545143000"},{"course":"COMP 061","venue":"ONLINE","c_name":"principles of programming","l_info":"Danny Quan : 0545143000"},{"course":"","venue":""},{"course":"INFT 063","venue":"LIB GF 2","c_name":"principles of programming","l_info":"Danny Quan : 0545143000"},{"course":"","venue":""},{"course":"INF 063","venue":"ONLINE","c_name":"principles of programming","l_info":"Danny Quan : 0545143000"},{"course":"","venue":""},{"course":"","venue":""}]
+         },
+        {
+         "day": "Tuesday",
+         "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"MATH 065","venue":"LIB GF2"},{"course":"","venue":""},{"course":"COMP 061","venue":"LIB FF2"},{"course":"","venue":""},{"course":"UENR 101","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"MATH 065","venue":"ONLINE"},{"course":"MATH 065","venue":"ONLINE"},{"course":"","venue":""}]
+         },
+         {
+             "day": "Wednesday",
+             "courses_venue": [{"course":"","venue":""},{"course":"INFT 065","venue":"LIB FF3"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+         },
+         {
+             "day": "Thursday",
+             "courses_venue": [{"course":"INFT 061","venue":"LIB FF2"},{"course":"COMP 063","venue":"LIB FF2"},{"course":"","venue":""},{"course":"UENR 101","venue":"LTS 1"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"INFT 061","venue":"ONLINE"},{"course":"INFT 061","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+         },
+         {
+             "day": "Friday",
+             "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"INFT 065","venue":"ONLINE"},{"course":"INFT 065","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""}]
+         }
+         ],
+         "Diploma Electrical and Electronic Engineering100":[
+            {
+                "day": "Monday",
+                "courses_venue": [{"course":"DEEE 105","venue":"LIB GF2"},{"course":"","venue":""},{"course":"MATH 063","venue":"LIB FF2"},{"course":"","venue":""},{"course":"DCEE 101","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+             },
+            {
+             "day": "Tuesday",
+             "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"DEEE 101","venue":"LIB FF2"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"DEEE 103","venue":"LIB FF3"},{"course":"","venue":""},{"course":"DEEE 105","venue":"ONLINE"},{"course":"DEEE 105","venue":"ONLINE"}]
+             },
+             {
+                 "day": "Wednesday",
+                 "courses_venue": [{"course":"UENR 101","venue":"SH1"},{"course":"","venue":""},{"course":"","venue":""},{"course":"DEEE 107","venue":"LIB FF2"},{"course":"","venue":""},{"course":"MATH 063","venue":"ONLINE"},{"course":"MATH 063","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"DEEE 101","venue":"ONLINE"},{"course":"DEEE 101","venue":"ONLINE"},{"course":"","venue":""}]
+             },
+             {
+                 "day": "Thursday",
+                 "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"DCEE 101","venue":"LIB FF2"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+             },
+             {
+                 "day": "Friday",
+                 "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 101","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"DEEE 103","venue":"ONLINE"},{"course":"DEEE 103","venue":"ONLINE"},{"course":"","venue":""},{"course":"DEEE 107","venue":"ONLINE"},{"course":"DEEE 107","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""}]
+             }
+             ],
+        "Diploma Enterprise Management100":[
+                {
+                    "day": "Monday",
+                    "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 100","venue":"SH 7"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"DENTR 101","venue":"ONLINE"},{"course":"DENTR","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                 },
+                {
+                 "day": "Tuesday",
+                 "courses_venue": [{"course":"UENR 100","venue":"ONLINE"},{"course":"","venue":""},{"course":"UENR 103","venue":"LTS 3"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 101","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"DENTR 105","venue":"ONLINE"},{"course":"DENTR 105","venue":"ONLINE"},{"course":"","venue":""}]
+                 },
+                 {
+                     "day": "Wednesday",
+                     "courses_venue": [{"course":"","venue":""},{"course":"UENR 105","venue":"SH 2"},{"course":"UENR 110","venue":"LTS1"},{"course":"","venue":""},{"course":"","venue":""},{"course":"DENTR 101","venue":"LIB FF3"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"DENTR 103","venue":"ONLNE"},{"course":"DENTR 103","venue":"ONLINE"}]
+                 },
+                 {
+                     "day": "Thursday",
+                     "courses_venue": [{"course":"UENR 103","venue":"ONLINE"},{"course":"","venue":""},{"course":"UENR 110","venue":"ONLINE"},{"course":"UENR 101","venue":"LTS 1"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 105","venue":"ONLINE"}]
+                 },
+                 {
+                     "day": "Friday",
+                     "courses_venue": [{"course":"","venue":""},{"course":"DENTR 105","venue":"SH 7"},{"course":"","venue":""},{"course":"DENTR 103","venue":"LIB FF2"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                 }
+                 ],
+                 "Diploma Fire, Safety and Disaster Management100":[
+                    {
+                        "day": "Monday",
+                        "courses_venue": [{"course":"FIDM 103","venue":"LIB FF3"},{"course":"","venue":""},{"course":"UENR 100","venue":"SH 7"},{"course":"","venue":""},{"course":"","venue":""},{"course":"FIDM 101","venue":"LIB FF2"},{"course":"","venue":""},{"course":"FIDM 109","venue":"LIB FF2"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                     },
+                    {
+                     "day": "Tuesday",
+                     "courses_venue": [{"course":"UENR 100","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"FIDM 101","venue":"ONLINE"},{"course":"FIDM 101","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"FIDM 103","venue":"ONLINE"},{"course":"FIDM 103","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""}]
+                     },
+                     {
+                         "day": "Wednesday",
+                         "courses_venue": [{"course":"UENR 101","venue":"SH 1"},{"course":"","venue":""},{"course":"FIDM 107","venue":"LIB FF3"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"FIDM 105","venue":"ONLINE"},{"course":"FIDM 105","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                     },
+                     {
+                         "day": "Thursday",
+                         "courses_venue": [{"course":"","venue":""},{"course":"FIDM 107","venue":"ONLINE"},{"course":"FIDM 107","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"FIDM 105","venue":"LIB GF2"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                     },
+                     {
+                         "day": "Friday",
+                         "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 101","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"FIDM 109","venue":"ONLINE"},{"course":"FIDM 109","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                     }
+                     ],
+                     "Diploma Hospitality Management100":[
+                        {
+                            "day": "Monday",
+                            "courses_venue": [{"course":"UENR 105","venue":"ONLINE"},{"course":"","venue":""},{"course":"DHSM 103","venue":"LT 2"},{"course":"","venue":""},{"course":"UENR 103","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                         },
+                        {
+                         "day": "Tuesday",
+                         "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"DHSM 101","venue":"ONLINE"},{"course":"DHSM 101","venue":"ONLINE"},{"course":"","venue":""},{"course":"UENR 101","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"DHSM 109","venue":"ONLINE"},{"course":"DHSM 109","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""}]
+                         },
+                         {
+                             "day": "Wednesday",
+                             "courses_venue": [{"course":"UENR 105","venue":"LT 2"},{"course":"UENR 101","venue":"LT 2"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"DHSM 107","venue":"ONLINE"},{"course":"DHSM 107","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                         },
+                         {
+                             "day": "Thursday",
+                             "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"DHSM 107","venue":"1SH 7"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"DHSM 103","venue":"ONLINE"},{"course":"DHSM 103","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                         },
+                         {
+                             "day": "Friday",
+                             "courses_venue": [{"course":"DHSM 101","venue":"PAV 1"},{"course":"","venue":""},{"course":"UENR 103","venue":"APP LAB3"},{"course":"","venue":""},{"course":"DHSM 109","venue":"APP LAB 3"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                         }
+                         ],
+                         "Diploma Insurance100":[
+                            {
+                                "day": "Monday",
+                                "courses_venue": [{"course":"MATH 103/MATH 061","venue":"SH 9"},{"course":"","venue":""},{"course":"UENR 101","venue":"APP LAB3"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"STAT 061","venue":"ONLINE"},{"course":"STAT 061","venue":"ONLINE"},{"course":"","venue":""},{"course":"INSU 063","venue":"LT 5"},{"course":"","venue":""}]
+                             },
+                            {
+                             "day": "Tuesday",
+                             "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 103","venue":"LTS 3"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"MATH 103/MATH 061","venue":"ONLINE"},{"course":"MATH 103/MATH 061","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                             },
+                             {
+                                 "day": "Wednesday",
+                                 "courses_venue": [{"course":"INSU 061","venue":"ONLINE"},{"course":"INSU 061","venue":"ONLINE"},{"course":"STAT 063","venue":"LT 7"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 101","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                             },
+                             {
+                                 "day": "Thursday",
+                                 "courses_venue": [{"course":"UENR 103","venue":"ONLINE"},{"course":"INSU 061","venue":"LT 5"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                             },
+                             {
+                                 "day": "Friday",
+                                 "courses_venue": [{"course":"STAT 061","venue":"LIB GF 1"},{"course":"","venue":""},{"course":"","venue":""},{"course":"INSU 063","venue":"ONLINE"},{"course":"INSU 063","venue":"ONLINE"},{"course":"","venue":""},{"course":"STAT 063","venue":"ONLINE"},{"course":"STAT 063","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                             }
+                             ],
+                             "Diploma Information Technology100":[
+                                {
+                                    "day": "Monday",
+                                    "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"INFT 061","venue":"ONLINE"},{"course":"INFT 061","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                 },
+                                {
+                                 "day": "Tuesday",
+                                 "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"MATH 103/MATH 061","venue":"LT 11"},{"course":"COMP 061","venue":"ONLINE"},{"course":"COMP 061","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                 },
+                                 {
+                                     "day": "Wednesday",
+                                     "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"INFT 063","venue":"LT 2"},{"course":"UENR 101","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                 },
+                                 {
+                                     "day": "Thursday",
+                                     "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"COMP 061","venue":"LT 1"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"MATH 103/MATH 061","venue":"ONLINE"},{"course":"MATH 103/MATH 061","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                 },
+                                 {
+                                     "day": "Friday",
+                                     "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"INFT 061","venue":"LT 2"},{"course":"INFT 063","venue":"ONLINE"},{"course":"UENR 101","venue":"LT 1"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                 }
+                                 ],
+                                 "Diploma Natural Resource Management100":[
+                                    {
+                                        "day": "Monday",
+                                        "courses_venue": [{"course":"UENR 105","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 101","venue":"SH 4"},{"course":"DSNR 103","venue":"LT 11"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"DSNR 107","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""}]
+                                     },
+                                    {
+                                     "day": "Tuesday",
+                                     "courses_venue": [{"course":"DSNR 101","venue":"LTS 1"},{"course":"DSNR 105","venue":"ONLINE"},{"course":"DSNR 109","venue":"SH 2"},{"course":"DSNR 111","venue":"SH 4"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                     },
+                                     {
+                                         "day": "Wednesday",
+                                         "courses_venue": [{"course":"UENR 105","venue":"LTS 2"},{"course":"UENR 103","venue":"LTS 1"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 110","venue":"LT 11"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 101","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""}]
+                                     },
+                                     {
+                                         "day": "Thursday",
+                                         "courses_venue": [{"course":"","venue":""},{"course":"DSNR 105","venue":"LT 11"},{"course":"DSNR 111","venue":"ONLINE"},{"course":"","venue":""},{"course":"UENR 103","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 110","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""}]
+                                     },
+                                     {
+                                         "day": "Friday",
+                                         "courses_venue": [{"course":"DSNR 107","venue":"SH 5"},{"course":"DSNR 101","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"DSNR 103","venue":"ONLINE"},{"course":"DSNR 103","venue":"ONLINE"},{"course":"","venue":""},{"course":"DSNR 109","venue":"ONLINE"},{"course":"DSNR 109","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                     }
+                                     ],
+                                     "Diploma Statistics100":[
+                                        {
+                                            "day": "Monday",
+                                            "courses_venue": [{"course":"UENR 101","venue":"ONLINE"},{"course":"","venue":""},{"course":"MATH 063","venue":"LIB FF2"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"STAT 061","venue":"ONLINE"},{"course":"STAT 061","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                         },
+                                        {
+                                         "day": "Tuesday",
+                                         "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 101","venue":"SH 1"},{"course":"MATH 103/MATH 061","venue":"LT 11"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                         },
+                                         {
+                                             "day": "Wednesday",
+                                             "courses_venue": [{"course":"","venue":""},{"course":"UENR 103","venue":"LTS 1"},{"course":"STAT 063","venue":"LT 7"},{"course":"","venue":""},{"course":"","venue":""},{"course":"MATH 063","venue":"ONLINE"},{"course":"MATH 063","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                         },
+                                         {
+                                             "day": "Thursday",
+                                             "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 103","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"MATH 103/MATH 061","venue":"ONLINE"},{"course":"MATH 103/MATH 061","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                         },
+                                         {
+                                             "day": "Friday",
+                                             "courses_venue": [{"course":"STAT 061","venue":"LIB GF 1"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"STAT 063","venue":"ONLINE"},{"course":"STAT 063","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                         }
+                                         ],
+                                         "Diploma Computer Science200":[
+                                            {
+                                                "day": "Monday",
+                                                "courses_venue": [{"course":"","venue":""},{"course":"INFT 073","venue":"ONLINE"},{"course":"INFT 073","venue":"ONLINE"},{"course":"","venue":""},{"course":"COMP 073","venue":"LT 1"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"COMP 079","venue":"LT 2"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                             },
+                                            {
+                                             "day": "Tuesday",
+                                             "courses_venue": [{"course":"","venue":""},{"course":"UENR 201","venue":"ONLINE"},{"course":"","venue":""},{"course":"COMP 075","venue":"ONLINE"},{"course":"COMP 075","venue":"ONLINE"},{"course":"","venue":""},{"course":"INFT 073","venue":"APP LAB 3"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                             },
+                                             {
+                                                 "day": "Wednesday",
+                                                 "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"COMP 077","venue":"ONLINE"},{"course":"COMP 077","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"COMP 075","venue":"LTS 3"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                             },
+                                             {
+                                                 "day": "Thursday",
+                                                 "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"COMP 071","venue":"LT 2"},{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 201","venue":"LT 2"},{"course":"","venue":""},{"course":"COMP 077","venue":"LT 2"},{"course":"","venue":""},{"course":"","venue":""}]
+                                             },
+                                             {
+                                                 "day": "Friday",
+                                                 "courses_venue": [{"course":"","venue":""},{"course":"COMP 071","venue":"ONLINE"},{"course":"COMP 071","venue":"ONLINE"},{"course":"","venue":""},{"course":"COMP 073","venue":"ONLINE"},{"course":"COMP 073","venue":"ONLINE"},{"course":"","venue":""},{"course":"COMP 079","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                             }
+                                             ],
+                                             "Diploma Electrical and Electronic Engineering200":[
+                                                {
+                                                    "day": "Monday",
+                                                    "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"DEEE 205","venue":"ONLINE"},{"course":"DEEE 205","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"DCEE 201","venue":"LT 1"},{"course":"","venue":""},{"course":"UENR 201","venue":"LTS 1"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                 },
+                                                {
+                                                 "day": "Tuesday",
+                                                 "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"DEEE 209","venue":"ONLINE"},{"course":"DEEE 209","venue":"ONLINE"},{"course":"","venue":""},{"course":"DCEE 201","venue":"ONLINE"},{"course":"DCEE 201","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"DEEE 205","venue":"LT 2"},{"course":"","venue":""},{"course":"","venue":""}]
+                                                 },
+                                                 {
+                                                     "day": "Wednesday",
+                                                     "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"DEEE 207","venue":"LTS 3"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                 },
+                                                 {
+                                                     "day": "Thursday",
+                                                     "courses_venue": [{"course":"DEEE 207","venue":"ONLINE"},{"course":"DEEE 207","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"DCEE 203","venue":"SH 1"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                 },
+                                                 {
+                                                     "day": "Friday",
+                                                     "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"DEEE 209","venue":"LTS 3"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 201","venue":"ONLINE"},{"course":"","venue":""},{"course":"DCEE 203","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                 }
+                                                 ],
+                                                 "Diploma Enterprise Management200":[
+                                                    {
+                                                        "day": "Monday",
+                                                        "courses_venue": [{"course":"DENTR 209","venue":"ONLINE"},{"course":"DENTR 209","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"DENTR 205","venue":"LT 10"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                     },
+                                                    {
+                                                     "day": "Tuesday",
+                                                     "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"DSMSL 200","venue":"ONLINE"},{"course":"DSMSL 200","venue":"ONLINE"},{"course":"","venue":""},{"course":"DSMSL 200","venue":"LT 11"},{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 201","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""}]
+                                                     },
+                                                     {
+                                                         "day": "Wednesday",
+                                                         "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"DENTR 207","venue":"ONLINE"},{"course":"DENTR 207","venue":"ONLINE"},{"course":"","venue":""},{"course":"DENTR 201","venue":"ONLINE"},{"course":"DENTR 201","venue":"ONLINE"},{"course":"","venue":""},{"course":"DENTR 209","venue":"LTS 1"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                     },
+                                                     {
+                                                         "day": "Thursday",
+                                                         "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 201 ","venue":"LT 10"},{"course":"DENTR 203","venue":"ONLINE"},{"course":"DENTR 203","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                     },
+                                                     {
+                                                         "day": "Friday",
+                                                         "courses_venue": [{"course":"DENTR 205","venue":"ONLINE"},{"course":"DENTR 205","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"DENTR 203","venue":"LT 10"},{"course":"DENTR 207","venue":"LT10"},{"course":"","venue":""},{"course":"DENTR 201","venue":"SH 4"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                     }
+                                                     ],
+                                                     "Diploma Fire, Safety and Disaster Management200":[
+                                                        {
+                                                            "day": "Monday",
+                                                            "courses_venue": [{"course":"FIDM 213","venue":"ONLINE"},{"course":"FIDM 213","venue":"ONLINE"},{"course":"","venue":""},{"course":"FIDM 211","venue":"ONLINE"},{"course":"FIDM 211","venue":"ONLINE"},{"course":"","venue":""},{"course":"FIDM 215","venue":"LIB FF3"},{"course":"","venue":""},{"course":"UENR 201","venue":"LTS 1"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                         },
+                                                        {
+                                                         "day": "Tuesday",
+                                                         "courses_venue": [{"course":"","venue":""},{"course":"FIDM 211","venue":"LIB FF2"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"SNAR 201","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                         },
+                                                         {
+                                                             "day": "Wednesday",
+                                                             "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"FIDM 217","venue":"ONLINE"},{"course":"FIDM 217","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"FIDM 215","venue":"ONLINE"},{"course":"FIDM 215","venue":"ONLINE"},{"course":"FIDM 213","venue":"LIB FF2"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                         },
+                                                         {
+                                                             "day": "Thursday",
+                                                             "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"FIDM 219","venue":"LIB FF2"},{"course":"","venue":""},{"course":"SNAR 201","venue":"LIB FF2"},{"course":"FIDM 217","venue":"LIB FF2"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                         },
+                                                         {
+                                                             "day": "Friday",
+                                                             "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"FIDM 219","venue":"ONLINE"},{"course":"FIDM 219","venue":"ONLINE"},{"course":"","venue":""},{"course":"UENR 201","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                         }
+                                                         ],
+                                                         "Bsc. Biological Science100":[
+                                                            {
+                                                                "day": "Monday",
+                                                                "courses_venue": [{"course":"UENR 100","venue":"ONLINE"},{"course":"","venue":""},{"course":"UMLS 103","venue":"SH 5"},{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 101","venue":"LT 2"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                             },
+                                                            {
+                                                             "day": "Tuesday",
+                                                             "courses_venue": [{"course":"UENR 103","venue":"SH 5"},{"course":"UENR 105","venue":"APP LAB 3"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"UMLS 103","venue":"ONLINE"},{"course":"UMLS 103","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 110","venue":"ONLINE"},{"course":"","venue":""}]
+                                                             },
+                                                             {
+                                                                 "day": "Wednesday",
+                                                                 "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"BIOL 113","venue":"APP LAB 3"},{"course":"","venue":""},{"course":"BIOL 105","venue":"SH 5"},{"course":"","venue":""},{"course":"","venue":""},{"course":"BIOL 101","venue":"ONLINE"},{"course":"BIOL 101","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                             },
+                                                             {
+                                                                 "day": "Thursday",
+                                                                 "courses_venue": [{"course":"BIOL 101","venue":"SH 6"},{"course":"UENR 100","venue":"SH 1"},{"course":"","venue":""},{"course":"","venue":""},{"course":"BIOL 113","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"BIOL 105","venue":"ONLINE"},{"course":"BIOL 105","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                             },
+                                                             {
+                                                                 "day": "Friday",
+                                                                 "courses_venue": [{"course":"","venue":""},{"course":"UENR 110","venue":"SH 5"},{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 105","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 101","venue":"ONLINE"},{"course":"UENR 103","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""}]
+                                                             }
+                                                             ],
+                                                             "Bsc. Medical Biodiagnotic Science100":[
+                                                                {
+                                                                    "day": "Monday",
+                                                                    "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"UMLS 107","venue":"AUD"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"UMLS 109","venue":"ONLINE"},{"course":"UMLS 109","venue":"ONLINE"},{"course":"","venue":""},{"course":"UMLS 101","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                 },
+                                                                {
+                                                                 "day": "Tuesday",
+                                                                 "courses_venue": [{"course":"UENR 103","venue":"SH 3"},{"course":"UMLS 105","venue":"SH 3"},{"course":"","venue":""},{"course":"UENR 110","venue":"LIB FF1"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"UMLS 103","venue":"ONLINE"},{"course":"UMLS 103","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                 },
+                                                                 {
+                                                                     "day": "Wednesday",
+                                                                     "courses_venue": [{"course":"UENR 101","venue":"SH 3"},{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 105","venue":"LTS 2"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 100","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 101","venue":"ONLINE"},{"course":"","venue":""}]
+                                                                 },
+                                                                 {
+                                                                     "day": "Thursday",
+                                                                     "courses_venue": [{"course":"","venue":""},{"course":"UMLS 109","venue":"LIB FF1"},{"course":"","venue":""},{"course":"UMLS 103","venue":"AUD"},{"course":"","venue":""},{"course":"","venue":""},{"course":"UMLS 107","venue":"ONLINE"},{"course":"","venue":""},{"course":"UENR 103","venue":"ONLINE"},{"course":"","venue":""},{"course":"UENR 110","venue":"ONLINE"},{"course":"","venue":""}]
+                                                                 },
+                                                                 {
+                                                                     "day": "Friday",
+                                                                     "courses_venue": [{"course":"UENR 100","venue":"SH 9"},{"course":"","venue":""},{"course":"","venue":""},{"course":"UMLS 101","venue":"LTS 2"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 105","venue":"ONLINE"},{"course":"","venue":""},{"course":"UMLS 105","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                 }
+                                                                 ],
+                                                                 "Bsc. Nursing100":[
+                                                                    {
+                                                                        "day": "Monday",
+                                                                        "courses_venue": [{"course":"UENR 103","venue":"LTS 1"},{"course":"","venue":""},{"course":"NURS 107","venue":"LT 10"},{"course":"NURS 111","venue":"LT 10"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 100","venue":"ONLINE"},{"course":"UENR 101","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                     },
+                                                                    {
+                                                                     "day": "Tuesday",
+                                                                     "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 103","venue":"ONLINE"},{"course":"UENR 101","venue":"LT 12"},{"course":"","venue":""},{"course":"UENR 105","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"NURS 107","venue":"ONLINE"},{"course":"NURS 105","venue":"ONLINE"},{"course":"","venue":""}]
+                                                                     },
+                                                                     {
+                                                                         "day": "Wednesday",
+                                                                         "courses_venue": [{"course":"NURS 103","venue":"LT 12"},{"course":"","venue":""},{"course":"NURS 101","venue":"SH 2"},{"course":"UENR 100","venue":"SH 3"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"NURS 111","venue":"ONLINE"},{"course":"","venue":""},{"course":"UENR 110","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                     },
+                                                                     {
+                                                                         "day": "Thursday",
+                                                                         "courses_venue": [{"course":"","venue":""},{"course":"UENR 110","venue":"LT 12"},{"course":"","venue":""},{"course":"NURS 109","venue":"LT 11"},{"course":"","venue":""},{"course":"","venue":""},{"course":"NURS 101","venue":"ONLINE"},{"course":"NURS 101","venue":"ONLINE"},{"course":"NURS 103","venue":"ONLINE"},{"course":"NURS 103","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                     },
+                                                                     {
+                                                                         "day": "Friday",
+                                                                         "courses_venue": [{"course":"NURS 105","venue":"LT 12"},{"course":"","venue":""},{"course":"UENR 105","venue":"LT 12"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"NURS 109","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                     }
+                                                                     ],
+                                                                     "Bsc. Chemistry100":[
+                                                                        {
+                                                                            "day": "Monday",
+                                                                            "courses_venue": [{"course":"UENR 101","venue":"ONLINE"},{"course":"","venue":""},{"course":"STAT 100","venue":"SH 6"},{"course":"","venue":""},{"course":"CHEM 101","venue":"ONLINE"},{"course":"CHEM 101","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                         },
+                                                                        {
+                                                                         "day": "Tuesday",
+                                                                         "courses_venue": [{"course":"PHYS 101","venue":"LTS 3"},{"course":"","venue":""},{"course":"UENR 101","venue":"SH 1"},{"course":"","venue":""},{"course":"","venue":""},{"course":"MATH 101","venue":"LT 2"},{"course":"","venue":""},{"course":"UENR 105","venue":"LT 2"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                         },
+                                                                         {
+                                                                             "day": "Wednesday",
+                                                                             "courses_venue": [{"course":"UENR 103","venue":"ONLINE"},{"course":"","venue":""},{"course":"UENR 110","venue":"LTS 1"},{"course":"CHEM 101","venue":"SH 1"},{"course":"","venue":""},{"course":"","venue":""},{"course":"MATH 101","venue":"ONLINE"},{"course":"MATH 101","venue":"ONLINE"},{"course":"","venue":""},{"course":"STAT 100","venue":"ONLINE"},{"course":"STAT 100","venue":"ONLINE"},{"course":"","venue":""}]
+                                                                         },
+                                                                         {
+                                                                             "day": "Thursday",
+                                                                             "courses_venue": [{"course":"","venue":""},{"course":"UENR 103","venue":"LTS 1"},{"course":"UENR 110","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 105","venue":"ONLINE"},{"course":"PHYS 101","venue":"ONLINE"},{"course":"","venue":""}]
+                                                                         },
+                                                                         {
+                                                                             "day": "Friday",
+                                                                             "courses_venue": [{"course":"","venue":""},{"course":"CHEM 103","venue":"CHEM LAB"},{"course":"CHEM 103","venue":"CHEM LAB"},{"course":"CHEM 103","venue":"CHEM LAB"},{"course":"CHEM 103","venue":"CHEM LAB"},{"course":"","venue":""},{"course":"","venue":""},{"course":"PHYS 103","venue":"CHEM LAB"},{"course":"PHYS 103","venue":"CHEM LAB"},{"course":"PHYS 103","venue":"CHEM LAB"},{"course":"PHYS 103","venue":"CHEM LAB"},{"course":"","venue":""}]
+                                                                         }
+                                                                         ],
+                                                                         "Bsc. Petroleum Engineering100":[
+                                                                            {
+                                                                                "day": "Monday",
+                                                                                "courses_venue": [{"course":"MECH 101","venue":"SH 5"},{"course":"","venue":""},{"course":"PENG 151","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 105","venue":"ONLINE"},{"course":"MECH 161","venue":"ONLINE"},{"course":"MECH 161","venue":"ONLINE"},{"course":"","venue":""}]
+                                                                             },
+                                                                            {
+                                                                             "day": "Tuesday",
+                                                                             "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"PENG 151","venue":"LT 2"},{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 105","venue":"AUD"},{"course":"","venue":""},{"course":"","venue":""},{"course":"PENG 153","venue":"ONLINE"},{"course":"PENG 153","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                             },
+                                                                             {
+                                                                                 "day": "Wednesday",
+                                                                                 "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 101","venue":"ONLINE"},{"course":"","venue":""},{"course":"MECH 161","venue":"LTS 3"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                             },
+                                                                             {
+                                                                                 "day": "Thursday",
+                                                                                 "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 101","venue":"SH 2"},{"course":"","venue":""},{"course":"MECH 101","venue":"ONLINE"},{"course":"","venue":""},{"course":"UENR 103","venue":"ONLINE"},{"course":"","venue":""},{"course":"MATH 109","venue":"ONLINE"},{"course":"MATH 109","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                             },
+                                                                             {
+                                                                                 "day": "Friday",
+                                                                                 "courses_venue": [{"course":"PENG 153","venue":"LT 2"},{"course":"MATH 109","venue":"SH 9"},{"course":"UENR 103","venue":"SH 1"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                             }
+                                                                             ],
+                                                                             "Bsc. Computer Science100":[
+                                                                                {
+                                                                                    "day": "Monday",
+                                                                                    "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"COMP 109","venue":"LTS 2"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"MATH 101","venue":"ONLINE"},{"course":"MATH 101","venue":"ONLINE"},{"course":"","venue":""},{"course":"STAT 100","venue":"ONLINE"},{"course":"STAT 100","venue":"ONLINE"},{"course":"","venue":""}]
+                                                                                 },
+                                                                                {
+                                                                                 "day": "Tuesday",
+                                                                                 "courses_venue": [{"course":"UENR 110","venue":"ONLINE"},{"course":"","venue":""},{"course":"UENR 105","venue":"SH 3"},{"course":"","venue":""},{"course":"UENR 101","venue":"LTS 2"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                                 },
+                                                                                 {
+                                                                                     "day": "Wednesday",
+                                                                                     "courses_venue": [{"course":"","venue":""},{"course":"UENR 110","venue":"SH 3"},{"course":"COMP 105","venue":"LTS 2"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 101","venue":"ONLINE"},{"course":"","venue":""},{"course":"COMP 109","venue":"ONLINE"},{"course":"COMP 109","venue":"ONLINE"},{"course":"","venue":""}]
+                                                                                 },
+                                                                                 {
+                                                                                     "day": "Thursday",
+                                                                                     "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"INFT 101","venue":"AUD"},{"course":"","venue":""},{"course":"","venue":""},{"course":"COMP 105","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                                 },
+                                                                                 {
+                                                                                     "day": "Friday",
+                                                                                     "courses_venue": [{"course":"MATH 101","venue":"LTS 2"},{"course":"STAT 100","venue":"SH 3"},{"course":"UENR 105","venue":"ONLINE"},{"course":"INFT 101","venue":"ONLINE"},{"course":"INFT 101","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                                 }
+                                                                                 ],
+                                                                                 "Bsc. Information Technology100":[
+                                                                                    {
+                                                                                        "day": "Monday",
+                                                                                        "courses_venue": [{"course":"MATH 103/MATH 061","venue":"SH 9"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 101","venue":"ONLINE"},{"course":"","venue":""},{"course":"STAT 100","venue":"ONLINE"},{"course":"STAT 100","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                                     },
+                                                                                    {
+                                                                                     "day": "Tuesday",
+                                                                                     "courses_venue": [{"course":"","venue":""},{"course":"STAT 100","venue":"SH 9"},{"course":"","venue":""},{"course":"COMP 109","venue":"SH 9"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"MATH 103/MATH 061","venue":"ONLINE"},{"course":"MATH 103/MATH 061","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                                     },
+                                                                                     {
+                                                                                         "day": "Wednesday",
+                                                                                         "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 101","venue":"SH 9"},{"course":"UENR 110","venue":"SH 9"},{"course":"","venue":""},{"course":"UENR 105","venue":"SH 9"},{"course":"","venue":""},{"course":"","venue":""},{"course":"INFT 101","venue":"ONLINE"},{"course":"INFT 101","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                                     },
+                                                                                     {
+                                                                                         "day": "Thursday",
+                                                                                         "courses_venue": [{"course":"INFT 101","venue":"SH 9"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 105","venue":"ONLINE"},{"course":"","venue":""},{"course":"COMP 109","venue":"ONLINE"},{"course":"COMP 109","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                                     },
+                                                                                     {
+                                                                                         "day": "Friday",
+                                                                                         "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 110","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                                     }
+                                                                                     ],
+                                                                                     "Bsc. Actuarial Science100":[
+                                                                                        {
+                                                                                            "day": "Monday",
+                                                                                            "courses_venue": [{"course":"UENR 110","venue":"LT 1"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"MATH 103/MATH 061","venue":"LT 10"},{"course":"","venue":""},{"course":"","venue":""},{"course":"MATH 107","venue":"ONLINE"},{"course":"MATH 107","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                                         },
+                                                                                        {
+                                                                                         "day": "Tuesday",
+                                                                                         "courses_venue": [{"course":"UENR 103","venue":"SH 4"},{"course":"UENR 101","venue":"SH 6"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"STAT 101","venue":"ONLINE"},{"course":"STAT 101","venue":"ONLINE"},{"course":"","venue":""}]
+                                                                                         },
+                                                                                         {
+                                                                                             "day": "Wednesday",
+                                                                                             "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 101","venue":"ONLINE"},{"course":"COMP 109","venue":"ONLINE"},{"course":"COMP 109","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"MATH 103/MATH 061","venue":"ONLINE"},{"course":"MATH 103/MATH 061","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                                         },
+                                                                                         {
+                                                                                             "day": "Thursday",
+                                                                                             "courses_venue": [{"course":"STAT 101","venue":"LT 10"},{"course":"","venue":""},{"course":"UENR 103","venue":"ONLINE"},{"course":"UENR 105","venue":"LTS 2"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                                         },
+                                                                                         {
+                                                                                             "day": "Friday",
+                                                                                             "courses_venue": [{"course":"MATH 107","venue":"SH 6"},{"course":"","venue":""},{"course":"COM 109","venue":"SH 7"},{"course":"UENR 110","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 105","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                                         }
+                                                                                         ],
+                                                                                         "Bsc. Mathematics100":[
+                                                                                            {
+                                                                                                "day": "Monday",
+                                                                                                "courses_venue": [{"course":"UENR 101","venue":"SH 7"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"MATH 103/MATH 061","venue":"LT 10"},{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 105","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                                             },
+                                                                                            {
+                                                                                             "day": "Tuesday",
+                                                                                             "courses_venue": [{"course":"UENR 103","venue":"SH 4"},{"course":"COMP 109","venue":"SH 5"},{"course":"","venue":""},{"course":"MATH 107","venue":"LT 2"},{"course":"","venue":""},{"course":"UENR 105","venue":"AUD"},{"course":"","venue":""},{"course":"UENR 110","venue":"ONLINE"},{"course":"","venue":""},{"course":"STAT 101","venue":"ONLINE"},{"course":"STAT 101","venue":"ONLINE"},{"course":"","venue":""}]
+                                                                                             },
+                                                                                             {
+                                                                                                 "day": "Wednesday",
+                                                                                                 "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"MATH 107","venue":"ONLINE"},{"course":"MATH 107","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"MATH 103/MATH 061","venue":"ONLINE"},{"course":"MATH 103/MATH 061","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                                             },
+                                                                                             {
+                                                                                                 "day": "Thursday",
+                                                                                                 "courses_venue": [{"course":"STAT 101","venue":"LT 10"},{"course":"","venue":""},{"course":"UENR 103","venue":"ONLINE"},{"course":"UENR 110","venue":"LT 2"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                                             },
+                                                                                             {
+                                                                                                 "day": "Friday",
+                                                                                                 "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 101","venue":"ONLINE"},{"course":"COMP 109","venue":"ONLINE"},{"course":"COMP 109","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                                             }
+                                                                                             ],
+                                                                                             "Bsc. Statistics100":[
+                                                                                                {
+                                                                                                    "day": "Monday",
+                                                                                                    "courses_venue": [{"course":"UENR 103","venue":"LT 11"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"MATH 103/MATH 061","venue":"LT 10"},{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 105","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                                                 },
+                                                                                                {
+                                                                                                 "day": "Tuesday",
+                                                                                                 "courses_venue": [{"course":"","venue":""},{"course":"COMP 109","venue":"SH 5"},{"course":"","venue":""},{"course":"MATH 107","venue":"LT 2"},{"course":"","venue":""},{"course":"UENR 105","venue":"AUD"},{"course":"","venue":""},{"course":"UENR 110","venue":"ONLINE"},{"course":"","venue":""},{"course":"STAT 101","venue":"ONLINE"},{"course":"STAT 101","venue":"ONLINE"},{"course":"","venue":""}]
+                                                                                                 },
+                                                                                                 {
+                                                                                                     "day": "Wednesday",
+                                                                                                     "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"UENR 101","venue":"ONLINE"},{"course":"","venue":""},{"course":"MATH 107","venue":"ONLINE"},{"course":"MATH 107","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"MATH 103/MATH 061","venue":"ONLINE"},{"course":"MATH 103/MATH 061","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                                                 },
+                                                                                                 {
+                                                                                                     "day": "Thursday",
+                                                                                                     "courses_venue": [{"course":"STAT 101","venue":"LT 10"},{"course":"","venue":""},{"course":"UENR 101","venue":"SH 2"},{"course":"UENR 110","venue":"LT 2"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                                                 },
+                                                                                                 {
+                                                                                                     "day": "Friday",
+                                                                                                     "courses_venue": [{"course":"UENR 103","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"COMP 109","venue":"ONLINE"},{"course":"COMP 109","venue":"ONLINE"},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                                                 }
+                                                                                                 ],
+                                                                                                         "Diploma Enterprise Management00":[
+                                                                                                            {
+                                                                                                                "day": "Monday",
+                                                                                                                "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                                                             },
+                                                                                                            {
+                                                                                                             "day": "Tuesday",
+                                                                                                             "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                                                             },
+                                                                                                             {
+                                                                                                                 "day": "Wednesday",
+                                                                                                                 "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                                                             },
+                                                                                                             {
+                                                                                                                 "day": "Thursday",
+                                                                                                                 "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                                                             },
+                                                                                                             {
+                                                                                                                 "day": "Friday",
+                                                                                                                 "courses_venue": [{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""},{"course":"","venue":""}]
+                                                                                                             }
+                                                                                                            ]
+}
