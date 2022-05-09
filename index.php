@@ -33,8 +33,8 @@ include_once('header.php');
 <h2>UENR<br> TIMETABLE FOR ALL TECHNOLOGIANS</h2>
 <h3>We provide you with the school's timetable, you can add your own study timetable and an amazing school notice board </h3>
 <div class="btns">
-    <a href="ttb.php" class="btn-full">uenr timetable &nbsp; &rarr;</a>
-    <a href="notice_board.php" class="btn-ghost">notice board &nbsp; &rarr;</a>
+    <a href="ttb.php" class="btn-full">Timetable &nbsp; &rarr;</a>
+    <a href="notice_board.php" class="btn-ghost">Notice board &nbsp; &rarr;</a>
 </div>    
         </div>
     </div>
