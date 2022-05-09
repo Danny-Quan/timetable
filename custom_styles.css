@@ -29,7 +29,6 @@ table{
     border-color: rgba(255,255,255, 0.5);
     border: none;
     border-radius: 0;
-    z-index: 9999;
 }
 body{
     background-color: #ffffff;
